@@ -1,5 +1,5 @@
 # Project_Yandex_Practicum
-independent projects as part of training in Yandex practicum
+Самостоятельные проекты, которые были сделаны в ходе обучения в "Яндекс.Практикум"
 
 ## Описание проектов
 
